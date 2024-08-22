@@ -107,8 +107,6 @@
     flex-wrap: wrap;
     justify-content: space-around;
     text-align: center;
-    height: 10px;
-    width: 10px
   }
   .img-item {
     flex: 1;
@@ -121,10 +119,10 @@
     margin-bottom: 10px;
   }
   table th {
-    background: #7bc1dd;
+    background: #eee;
   }
   table, th, td {
-    border: 1px solid rgb(59, 27, 199);
+    border: 1px solid black;
     border-collapse: collapse;
   }
   th, td {
@@ -135,11 +133,9 @@
   }
   caption { font-weight: bold; }
 </style>
-<!--
 <title>
   Model Card{% if model_details.name %} for {{ model_details.name }}{% endif %}
-</title> -->
-
+</title>
 </head>
 <body>
   <h1>
@@ -155,7 +151,7 @@
               {{ render_if_exist('name', model_details.version.name) }}
               {{ render_if_exist('date', model_details.version.date) }}
               {{ render_if_exist('diff', model_details.version.diff) }}
-          {% endif %}=]
+          {% endif %}
           {% if model_details.documentation %}<h3>Documentation</h3>
               {{ model_details.documentation }}{% endif %}
           {% if model_details.owners %}<h3>Owners</h3>
