@@ -1,8 +1,8 @@
-# AI Governance on Google Cloud with Dataplex and Vertex AI Demo Series
+# AI Governance on Google Cloud with Dataplex and Vertex AI - Demo Series
 
 This in-depth demo series features live demonstrations of how to implement AI governance on Google Cloud Platform (GCP), taking advantage of Cloud Dataplex's robust data management features and Vertex AI's advanced AI governance capabilities.
 
-### Key Highlights:
+#### Key Highlights:
 
 - **Data Governance with Dataplex:** Learn how to establish a robust data governance framework using Dataplex, ensuring effective data management, data quality, security, and compliance throughout the AI lifecycle.
 
@@ -11,7 +11,7 @@ This in-depth demo series features live demonstrations of how to implement AI go
 - **Practical Demonstrations:**  Gain hands-on experience through real-world examples and demos, illustrating how to apply AI governance principles in practice.
 
 
-### Target Audience:
+#### Target Audience:
 
 - Data Scientists and ML Engineers
 - Data Governance Professionals
