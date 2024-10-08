@@ -26,9 +26,10 @@ Join this demo series to equip yourself with the knowledge and tools needed to i
 | -- | :-- | :--- | :--- |:--- |
 | 1. | AI Governance with Dataplex | [Cataloging a Model Card](/notebooks/AI_Governance_with_Dataplex_Demo_Series_Cataloging_a_model_card_.ipynb)| Live Demo showcasing how to catalog a Model Card generated using MCT can be Cataloged in Dataplex.| Mansi Maharana|
 | 2. | AI Governance with Dataplex | [Discover Model Metadata and Artifacts]()| TBD | Mansi Maharana |
-| 3. | AI Governance with Dataplex | [Tracking Model Lineage]()| TBD | Mansi Maharana |
-| 4. |AI Governance with Vertex AI | [Model Registry]() | TBD | Mansi Maharana |
+| 3. | AI Governance with Dataplex  | [Tracking Model Lineage]()| TBD | Mansi Maharana |
+| 4. |AI Governance with Vertex AI | [Model Metadata]() | TBD | Mansi Maharana |
 | 5. |AI Governance with Vertex AI| [Explainable AI]() | TBD | Mansi Maharana |
+| 6. |Gen AI Governance with SDP | [Secure AI]() | TBD | Mansi Maharana |
 
 
 ## Contributing
